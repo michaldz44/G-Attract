@@ -1,0 +1,14 @@
+dt     		0.05 
+h   		0.2 
+g     		0.0 
+magnetSize  0.005
+abortVel    0.005
+start_mu    0.7
+stop_mu     0.7
+step_mu     0.05
+start_amp  	5.0
+stop_amp   	5.0
+step_amp   	0.2 
+minSteps    1000
+maxSteps    1000000000
+white_noise 1
